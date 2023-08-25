@@ -71,7 +71,7 @@ body, html {
 .description {
 	position: absolute;
 	font-size: calc(var(--sizeindex) * .8);
-	top: 20vh;
+	top: 17vh;
 	left: 8vw;
 	max-width: 24vw;
 	transition: opacity var(--transition), transform var(--transition);
